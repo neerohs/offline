@@ -1,106 +1,435 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="RICK AND MORTY 1" tvg-logo="https://i.ibb.co/B2vQR5B/24-hrs.jpg" group-title="CANAIS: 24 HORAS",RICK AND MORTY 1
-http://suatv.fun:80/560625405480/947807846816/422246
-#EXTINF:-1 tvg-id="" tvg-name="RICK AND MORTY 2" tvg-logo="https://i.ibb.co/B2vQR5B/24-hrs.jpg" group-title="CANAIS: 24 HORAS",RICK AND MORTY 2
-http://suatv.fun:80/560625405480/947807846816/422247
-#EXTINF:-1 tvg-id="" tvg-name="RICK AND MORTY 3" tvg-logo="https://i.ibb.co/B2vQR5B/24-hrs.jpg" group-title="CANAIS: 24 HORAS",RICK AND MORTY 3
-http://suatv.fun:80/560625405480/947807846816/422248
-#EXTINF:-1 tvg-id="" tvg-name="RICK AND MORTY 4" tvg-logo="https://i.ibb.co/B2vQR5B/24-hrs.jpg" group-title="CANAIS: 24 HORAS",RICK AND MORTY 4
-http://suatv.fun:80/560625405480/947807846816/422249
-
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWaKdUeMOlVZem3v9DWsdDGlTuY.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S01 E01
-http://suatv.fun:80/series/560625405480/947807846816/340898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3CzGadu9EEunFtuTqmXxMRkX5V.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S01 E02
-http://suatv.fun:80/series/560625405480/947807846816/340899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cp6QrExDBQUFGcOu43NBtaugNY.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S01 E03
-http://suatv.fun:80/series/560625405480/947807846816/340900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hbDdbHeHIuquiwQ5zdux57nYTk.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S01 E04
-http://suatv.fun:80/series/560625405480/947807846816/340901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9nh9ZpxOyCJMD73biS2h3CvHfm2.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S01 E05
-http://suatv.fun:80/series/560625405480/947807846816/340902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hY750JVvL7K9KQN9lcqPTqcUEkN.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S01 E06
-http://suatv.fun:80/series/560625405480/947807846816/340903.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDbvUQXyphvSs9fTBXangBtE8Qu.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S01 E07
-http://suatv.fun:80/series/560625405480/947807846816/340904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HaTpHoQw2DWFAtHgGKn4gLOEaX.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S01 E08
-http://suatv.fun:80/series/560625405480/947807846816/340905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/daA9q3U3ibIcm5OGuklySeIsQWV.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S01 E09
-http://suatv.fun:80/series/560625405480/947807846816/340906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gOouaPQhfB8cC01sYyFLYgTcRq.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S01 E10
-http://suatv.fun:80/series/560625405480/947807846816/340907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2SAtmUW6tm8q3oYikgwImZte9Q.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S01 E11
-http://suatv.fun:80/series/560625405480/947807846816/340908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49kPj1L8KkJAnhnqJIftr3fdXHt.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S02 E01
-http://suatv.fun:80/series/560625405480/947807846816/340956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsrtewu4jJPh4vB5ZDB9oW36tm8.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S02 E02
-http://suatv.fun:80/series/560625405480/947807846816/340957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zOHPMTvduupyEDqL8FnLGt6fxq.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S02 E03
-http://suatv.fun:80/series/560625405480/947807846816/340958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVQqoLFSCzFtKp0OkW4PGPc7NtB.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S02 E04
-http://suatv.fun:80/series/560625405480/947807846816/340959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gqEcSpAaTERNPRThG2N4OlXrw9.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S02 E05
-http://suatv.fun:80/series/560625405480/947807846816/340960.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nK4uwrLAsSTMAi2iK1kzceg51NW.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S02 E06
-http://suatv.fun:80/series/560625405480/947807846816/340961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmGdga7NBsz7CCZNVJrZ7bvzuOe.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S02 E07
-http://suatv.fun:80/series/560625405480/947807846816/340962.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fm5rzPCXTLr1SlSmylBkNkZhF1P.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S02 E08
-http://suatv.fun:80/series/560625405480/947807846816/340963.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uK0bpV9Oc07FfCsPk6BISqKj7bS.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S02 E09
-http://suatv.fun:80/series/560625405480/947807846816/340964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tre38ZRSWjC1Z5f7AbI4TDo8w1t.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S02 E10
-http://suatv.fun:80/series/560625405480/947807846816/340965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwxRcQRpTpUlWN34mP0SpQCbfvs.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S03 E01
-http://suatv.fun:80/series/560625405480/947807846816/341062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uXVtyVMsQ4ju9Ts4Fhnj5IXFdr.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S03 E02
-http://suatv.fun:80/series/560625405480/947807846816/341063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DEZ0rpzMyBrN9QroA7FTlbgwjL.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S03 E03
-http://suatv.fun:80/series/560625405480/947807846816/341064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1BdCiPvk13xWalDrm2VT4wFEBw.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S03 E04
-http://suatv.fun:80/series/560625405480/947807846816/341065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGWF8xQH6OtCk6m7WxBG8kztma9.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S03 E05
-http://suatv.fun:80/series/560625405480/947807846816/341066.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBlUIclFyabFCzaubgot6hUyQii.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S03 E06
-http://suatv.fun:80/series/560625405480/947807846816/341067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaQewfpan7KdMLVkAzBQoWPO1fY.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S03 E07
-http://suatv.fun:80/series/560625405480/947807846816/341068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htGYT3DrkEqT1ZB7lgLCEyUH2EF.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S03 E08
-http://suatv.fun:80/series/560625405480/947807846816/341069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGwRWniPFiFsXE1Y13PxP71tnSW.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S03 E09
-http://suatv.fun:80/series/560625405480/947807846816/341070.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ej2Y8gRkOllPF5dRMG0nS7HKy6w.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S03 E10
-http://suatv.fun:80/series/560625405480/947807846816/341071.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0qw504V0rkLKGviNsBnq1HOnXR.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S04 E01
-http://suatv.fun:80/series/560625405480/947807846816/341082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QrhXUMAtmNvtlJy3XLDWvr2Xk7.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S04 E02
-http://suatv.fun:80/series/560625405480/947807846816/341083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etaGJvYnUNN7Hrs5ddNIkKxuXFn.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S04 E03
-http://suatv.fun:80/series/560625405480/947807846816/341084.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xG2DlQB8amHLCiiDohheCpjjUrd.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S04 E04
-http://suatv.fun:80/series/560625405480/947807846816/341085.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/po6Uuzz17eFcGFgiB2f6n7v0chL.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S04 E05
-http://suatv.fun:80/series/560625405480/947807846816/341086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAUbOurESu3aWQazYkdVbhlKoVp.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S04 E06
-http://suatv.fun:80/series/560625405480/947807846816/341087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgtHF7rqaac6ZhJp94orTFnNHgJ.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S04 E07
-http://suatv.fun:80/series/560625405480/947807846816/341088.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fN6d00et55OzeVSqq34Ww2wGQxR.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S04 E08
-http://suatv.fun:80/series/560625405480/947807846816/341089.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5QkB2nmmBwPhNhPN2FNTj3bm2I.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S04 E09
-http://suatv.fun:80/series/560625405480/947807846816/341090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6TemRqYYm1JQDEqf2sc6jRD5uXH.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S04 E10
-http://suatv.fun:80/series/560625405480/947807846816/341091.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kOWDBK6XlPUzckuHDo3wwVRFwt.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S05 E01
-http://suatv.fun:80/series/560625405480/947807846816/376799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kOWDBK6XlPUzckuHDo3wwVRFwt.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S05 E02
-http://suatv.fun:80/series/560625405480/947807846816/376800.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kOWDBK6XlPUzckuHDo3wwVRFwt.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S05 E03
-http://suatv.fun:80/series/560625405480/947807846816/376801.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kOWDBK6XlPUzckuHDo3wwVRFwt.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S05 E04
-http://suatv.fun:80/series/560625405480/947807846816/376802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kOWDBK6XlPUzckuHDo3wwVRFwt.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S05 E05
-http://suatv.fun:80/series/560625405480/947807846816/376803.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kOWDBK6XlPUzckuHDo3wwVRFwt.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S05 E06
-http://suatv.fun:80/series/560625405480/947807846816/376804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kOWDBK6XlPUzckuHDo3wwVRFwt.jpg" group-title="SERIES ANIME / DESENHOS",Rick and Morty S05 E07
-http://suatv.fun:80/series/560625405480/947807846816/376805.mp4
+#EXTINF:-1 tvg-name="Copa do Brasil Prime 01" tvg-logo="https://capas.webplay.fun/copabrasil.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",Copa do Brasil Prime 01
+http://4tv.site:2082/duvaldo80/800900500/192566
+#EXTINF:-1 tvg-name="Copa do Brasil Prime 02" tvg-logo="https://capas.webplay.fun/copabrasil.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",Copa do Brasil Prime 02
+http://4tv.site:2082/duvaldo80/800900500/192567
+#EXTINF:-1 tvg-name="STAR+ HD³" tvg-logo="http://capas.webplay.fun/starmais.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",STAR+ HD³
+http://4tv.site:2082/duvaldo80/800900500/188771
+#EXTINF:-1 tvg-name="STAR+ 2 HD³" tvg-logo="http://capas.webplay.fun/starmais.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",STAR+ 2 HD³
+http://4tv.site:2082/duvaldo80/800900500/188772
+#EXTINF:-1 tvg-name="FURACÃO TV¹" tvg-logo="https://capas.webplay.fun/furacao.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",FURACÃO TV¹
+http://4tv.site:2082/duvaldo80/800900500/195108
+#EXTINF:-1 tvg-name="FURACÃO TV²" tvg-logo="https://capas.webplay.fun/furacao.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",FURACÃO TV²
+http://4tv.site:2082/duvaldo80/800900500/196501
+#EXTINF:-1 tvg-name="CONMEBOL 1 FHD²" tvg-logo="http://capas.webplay.fun/Conmebol.jpg" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",CONMEBOL 1 FHD²
+http://4tv.site:2082/duvaldo80/800900500/43358
+#EXTINF:-1 tvg-name="CONMEBOL 1 FHD¹" tvg-logo="http://capas.webplay.fun/Conmebol.jpg" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",CONMEBOL 1 FHD¹
+http://4tv.site:2082/duvaldo80/800900500/39176
+#EXTINF:-1 tvg-name="CONMEBOL 1 HD" tvg-logo="http://capas.webplay.fun/Conmebol.jpg" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",CONMEBOL 1 HD
+http://4tv.site:2082/duvaldo80/800900500/39180
+#EXTINF:-1 tvg-name="CONMEBOL 1 HD²" tvg-logo="http://capas.webplay.fun/Conmebol.jpg" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",CONMEBOL 1 HD²
+http://4tv.site:2082/duvaldo80/800900500/46206
+#EXTINF:-1 tvg-name="CONMEBOL 2 FHD" tvg-logo="http://capas.webplay.fun/Conmebol.jpg" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",CONMEBOL 2 FHD
+http://4tv.site:2082/duvaldo80/800900500/39177
+#EXTINF:-1 tvg-name="CONMEBOL 2 FHD²" tvg-logo="http://capas.webplay.fun/Conmebol.jpg" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",CONMEBOL 2 FHD²
+http://4tv.site:2082/duvaldo80/800900500/44682
+#EXTINF:-1 tvg-name="CONMEBOL 2 HD" tvg-logo="http://capas.webplay.fun/Conmebol.jpg" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",CONMEBOL 2 HD
+http://4tv.site:2082/duvaldo80/800900500/39181
+#EXTINF:-1 tvg-name="CONMEBOL 2 HD²" tvg-logo="http://capas.webplay.fun/Conmebol.jpg" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",CONMEBOL 2 HD²
+http://4tv.site:2082/duvaldo80/800900500/46207
+#EXTINF:-1 tvg-name="CONMEBOL 3 FHD H265" tvg-logo="http://capas.webplay.fun/Conmebol.jpg" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",CONMEBOL 3 FHD H265
+http://4tv.site:2082/duvaldo80/800900500/39178
+#EXTINF:-1 tvg-name="CONMEBOL 3 FHD²" tvg-logo="http://capas.webplay.fun/Conmebol.jpg" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",CONMEBOL 3 FHD²
+http://4tv.site:2082/duvaldo80/800900500/44683
+#EXTINF:-1 tvg-name="CONMEBOL 3 HD" tvg-logo="http://capas.webplay.fun/Conmebol.jpg" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",CONMEBOL 3 HD
+http://4tv.site:2082/duvaldo80/800900500/39182
+#EXTINF:-1 tvg-name="CONMEBOL 4 FHD" tvg-logo="http://capas.webplay.fun/Conmebol.jpg" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",CONMEBOL 4 FHD
+http://4tv.site:2082/duvaldo80/800900500/39179
+#EXTINF:-1 tvg-name="CONMEBOL 4 FHD²" tvg-logo="http://capas.webplay.fun/Conmebol.jpg" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",CONMEBOL 4 FHD²
+http://4tv.site:2082/duvaldo80/800900500/44684
+#EXTINF:-1 tvg-name="CONMEBOL 4 HD" tvg-logo="http://capas.webplay.fun/Conmebol.jpg" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",CONMEBOL 4 HD
+http://4tv.site:2082/duvaldo80/800900500/39183
+#EXTINF:-1 tvg-name="CONMEBOL 4 HD²" tvg-logo="http://capas.webplay.fun/Conmebol.jpg" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",CONMEBOL 4 HD²
+http://4tv.site:2082/duvaldo80/800900500/46209
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 01 SD¹ [em eventos]" tvg-logo="http://4tv.site:2082/images/70174c0a783eae8342f989252f0c82e8.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",DAZN 01 SD¹ [em eventos]
+http://4tv.site:2082/duvaldo80/800900500/18033
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD²  [em eventos]" tvg-logo="http://capas.webplay.fun/dazn.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",DAZN 2 HD²  [em eventos]
+http://4tv.site:2082/duvaldo80/800900500/154819
+#EXTINF:-1 tvg-name="FLA TV [em eventos]" tvg-logo="http://capas.webplay.fun/flatv.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",FLA TV [em eventos]
+http://4tv.site:2082/duvaldo80/800900500/41702
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Max HD 01²" tvg-logo="http://capas.webplay.fun/HBOMax.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",HBO Max HD 01²
+http://4tv.site:2082/duvaldo80/800900500/173091
+#EXTINF:-1 tvg-name="HBO Max HD 01³" tvg-logo="http://capas.webplay.fun/HBOMax.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",HBO Max HD 01³
+http://4tv.site:2082/duvaldo80/800900500/174940
+#EXTINF:-1 tvg-name="HBO Max HD 01¹" tvg-logo="http://capas.webplay.fun/HBOMax.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",HBO Max HD 01¹
+http://4tv.site:2082/duvaldo80/800900500/173099
+#EXTINF:-1 tvg-name="HBO Max HD 02²" tvg-logo="http://capas.webplay.fun/HBOMax.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",HBO Max HD 02²
+http://4tv.site:2082/duvaldo80/800900500/173093
+#EXTINF:-1 tvg-name="HBO Max HD 02³" tvg-logo="http://capas.webplay.fun/HBOMax.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",HBO Max HD 02³
+http://4tv.site:2082/duvaldo80/800900500/174941
+#EXTINF:-1 tvg-name="HBO Max HD 02¹" tvg-logo="http://capas.webplay.fun/HBOMax.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",HBO Max HD 02¹
+http://4tv.site:2082/duvaldo80/800900500/173098
+#EXTINF:-1 tvg-name="HBO Max HD 03²" tvg-logo="http://capas.webplay.fun/HBOMax.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",HBO Max HD 03²
+http://4tv.site:2082/duvaldo80/800900500/174934
+#EXTINF:-1 tvg-name="HBO Max HD 03¹" tvg-logo="http://capas.webplay.fun/HBOMax.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",HBO Max HD 03¹
+http://4tv.site:2082/duvaldo80/800900500/174938
+#EXTINF:-1 tvg-name="HBO Max HD 04²" tvg-logo="http://capas.webplay.fun/HBOMax.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",HBO Max HD 04²
+http://4tv.site:2082/duvaldo80/800900500/174935
+#EXTINF:-1 tvg-name="HBO Max HD 04¹" tvg-logo="http://capas.webplay.fun/HBOMax.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",HBO Max HD 04¹
+http://4tv.site:2082/duvaldo80/800900500/174939
+#EXTINF:-1 tvg-name="HBO Max HD 05¹" tvg-logo="http://capas.webplay.fun/HBOMax.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",HBO Max HD 05¹
+http://4tv.site:2082/duvaldo80/800900500/174936
+#EXTINF:-1 tvg-name="HBO Max HD 06¹" tvg-logo="http://capas.webplay.fun/HBOMax.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",HBO Max HD 06¹
+http://4tv.site:2082/duvaldo80/800900500/174937
+#EXTINF:-1 tvg-name="STAR+ 1¹" tvg-logo="http://capas.webplay.fun/starmais.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",STAR+ 1¹
+http://4tv.site:2082/duvaldo80/800900500/173040
+#EXTINF:-1 tvg-name="STAR+ 1²" tvg-logo="http://capas.webplay.fun/starmais.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",STAR+ 1²
+http://4tv.site:2082/duvaldo80/800900500/173094
+#EXTINF:-1 tvg-name="STAR+ 2¹" tvg-logo="http://capas.webplay.fun/starmais.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",STAR+ 2¹
+http://4tv.site:2082/duvaldo80/800900500/177271
+#EXTINF:-1 tvg-name="STAR+ 2²" tvg-logo="http://capas.webplay.fun/starmais.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",STAR+ 2²
+http://4tv.site:2082/duvaldo80/800900500/173095
+#EXTINF:-1 tvg-name="STAR+ 3²" tvg-logo="http://capas.webplay.fun/starmais.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",STAR+ 3²
+http://4tv.site:2082/duvaldo80/800900500/173096
+#EXTINF:-1 tvg-name="STAR+ 4¹" tvg-logo="http://capas.webplay.fun/starmais.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",STAR+ 4¹
+http://4tv.site:2082/duvaldo80/800900500/173097
+#EXTINF:-1 tvg-name="STAR+ 5¹" tvg-logo="http://capas.webplay.fun/starmais.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",STAR+ 5¹
+http://4tv.site:2082/duvaldo80/800900500/176164
+#EXTINF:-1 tvg-name="STAR+ 6¹" tvg-logo="http://capas.webplay.fun/starmais.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",STAR+ 6¹
+http://4tv.site:2082/duvaldo80/800900500/176162
+#EXTINF:-1 tvg-name="STAR+ 7¹" tvg-logo="http://capas.webplay.fun/starmais.png" group-title="CANAIS | PAY-PER-VIEW ( ESPORTES )",STAR+ 7¹
+http://4tv.site:2082/duvaldo80/800900500/176163
+#EXTINF:-1 tvg-name="ALL SPORTS HD¹" tvg-logo="http://capas.webplay.fun/ALLSPORTS.png" group-title="CANAIS | ESPORTES",ALL SPORTS HD¹
+http://4tv.site:2082/duvaldo80/800900500/42770
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD²" tvg-logo="http://capas.webplay.fun/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD²
+http://4tv.site:2082/duvaldo80/800900500/34923
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD¹" tvg-logo="http://capas.webplay.fun/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD¹
+http://4tv.site:2082/duvaldo80/800900500/18208
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD²" tvg-logo="http://capas.webplay.fun/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD²
+http://4tv.site:2082/duvaldo80/800900500/35236
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD¹" tvg-logo="http://capas.webplay.fun/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD¹
+http://4tv.site:2082/duvaldo80/800900500/17886
+#EXTINF:-1 tvg-name="FISH TV FHD H265²" tvg-logo="http://capas.webplay.fun/fish.png" group-title="CANAIS | ESPORTES",FISH TV FHD H265²
+http://4tv.site:2082/duvaldo80/800900500/173626
+#EXTINF:-1 tvg-name="FISH TV HD²" tvg-logo="http://capas.webplay.fun/fish.png" group-title="CANAIS | ESPORTES",FISH TV HD²
+http://4tv.site:2082/duvaldo80/800900500/173628
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD¹" tvg-logo="http://capas.webplay.fun/fish.png" group-title="CANAIS | ESPORTES",FISH TV SD¹
+http://4tv.site:2082/duvaldo80/800900500/17913
+#EXTINF:-1 tvg-name="FISHTV SD²" tvg-logo="http://capas.webplay.fun/fish.png" group-title="CANAIS | ESPORTES",FISHTV SD²
+http://4tv.site:2082/duvaldo80/800900500/173629
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FOX SPORTS 2 HD²" tvg-logo="https://capas.webplay.fun/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD²
+http://4tv.site:2082/duvaldo80/800900500/34954
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 HD¹" tvg-logo="https://capas.webplay.fun/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD¹
+http://4tv.site:2082/duvaldo80/800900500/18235
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS 2 SD²" tvg-logo="https://capas.webplay.fun/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD²
+http://4tv.site:2082/duvaldo80/800900500/35098
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="FOX SPORTS 2 SD¹" tvg-logo="https://capas.webplay.fun/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD¹
+http://4tv.site:2082/duvaldo80/800900500/17918
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD¹" tvg-logo="http://capas.webplay.fun/woohoo.png" group-title="CANAIS | ESPORTES",WOOHOO SD¹
+http://4tv.site:2082/duvaldo80/800900500/18019
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="COMBATE HD²" tvg-logo="https://capas.webplay.fun/combate.png" group-title="CANAIS | COMBATE",COMBATE HD²
+http://4tv.site:2082/duvaldo80/800900500/34932
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD¹" tvg-logo="https://capas.webplay.fun/combate.png" group-title="CANAIS | COMBATE",COMBATE HD¹
+http://4tv.site:2082/duvaldo80/800900500/18213
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD²" tvg-logo="https://capas.webplay.fun/combate.png" group-title="CANAIS | COMBATE",COMBATE SD²
+http://4tv.site:2082/duvaldo80/800900500/35171
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD¹" tvg-logo="https://capas.webplay.fun/combate.png" group-title="CANAIS | COMBATE",COMBATE SD¹
+http://4tv.site:2082/duvaldo80/800900500/17895
+#EXTINF:-1 tvg-name="Eleven Sports 01 HD" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",Eleven Sports 01 HD
+http://4tv.site:2082/duvaldo80/800900500/172362
+#EXTINF:-1 tvg-name="Eleven Sports 02 HD" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",Eleven Sports 02 HD
+http://4tv.site:2082/duvaldo80/800900500/172361
+#EXTINF:-1 tvg-name="Eleven Sports 03 HD" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",Eleven Sports 03 HD
+http://4tv.site:2082/duvaldo80/800900500/172360
+#EXTINF:-1 tvg-name="Eleven Sports 04 HD" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",Eleven Sports 04 HD
+http://4tv.site:2082/duvaldo80/800900500/172359
+#EXTINF:-1 tvg-name="Eleven Sports 05 HD" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",Eleven Sports 05 HD
+http://4tv.site:2082/duvaldo80/800900500/172358
+#EXTINF:-1 tvg-name="Eleven Sports 06 HD" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",Eleven Sports 06 HD
+http://4tv.site:2082/duvaldo80/800900500/172357
+#EXTINF:-1 tvg-name="Eleven Sports 07 HD" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",Eleven Sports 07 HD
+http://4tv.site:2082/duvaldo80/800900500/172356
+#EXTINF:-1 tvg-name="Eleven Sports 08 HD" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",Eleven Sports 08 HD
+http://4tv.site:2082/duvaldo80/800900500/172355
+#EXTINF:-1 tvg-name="Eleven Sports 09 HD" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",Eleven Sports 09 HD
+http://4tv.site:2082/duvaldo80/800900500/172354
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ELEVEN SPORTS 1 HD² [Somente Evento]" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",ELEVEN SPORTS 1 HD² [Somente Evento]
+http://4tv.site:2082/duvaldo80/800900500/43281
+#EXTINF:-1 tvg-name="Eleven Sports 10 HD" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",Eleven Sports 10 HD
+http://4tv.site:2082/duvaldo80/800900500/172353
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 10 HD² [Somente Evento]" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",ELEVEN SPORTS 10 HD² [Somente Evento]
+http://4tv.site:2082/duvaldo80/800900500/43272
+#EXTINF:-1 tvg-name="Eleven Sports 11 HD" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",Eleven Sports 11 HD
+http://4tv.site:2082/duvaldo80/800900500/172352
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 11 HD² [Somente Evento]" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",ELEVEN SPORTS 11 HD² [Somente Evento]
+http://4tv.site:2082/duvaldo80/800900500/43271
+#EXTINF:-1 tvg-name="Eleven Sports 12 HD" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",Eleven Sports 12 HD
+http://4tv.site:2082/duvaldo80/800900500/172351
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 12 HD²" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",ELEVEN SPORTS 12 HD²
+http://4tv.site:2082/duvaldo80/800900500/167889
+#EXTINF:-1 tvg-name="Eleven Sports 13 HD" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",Eleven Sports 13 HD
+http://4tv.site:2082/duvaldo80/800900500/172350
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 13 HD² [Somente Evento]" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",ELEVEN SPORTS 13 HD² [Somente Evento]
+http://4tv.site:2082/duvaldo80/800900500/43270
+#EXTINF:-1 tvg-name="Eleven Sports 14 HD" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",Eleven Sports 14 HD
+http://4tv.site:2082/duvaldo80/800900500/172349
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 14 HD² [Somente Evento]" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",ELEVEN SPORTS 14 HD² [Somente Evento]
+http://4tv.site:2082/duvaldo80/800900500/42772
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 15 HD² [Somente Evento]" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",ELEVEN SPORTS 15 HD² [Somente Evento]
+http://4tv.site:2082/duvaldo80/800900500/42771
+#EXTINF:-1 tvg-id="aande.br" tvg-name="ELEVEN SPORTS 16 HD² [somente eventos]" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",ELEVEN SPORTS 16 HD² [somente eventos]
+http://4tv.site:2082/duvaldo80/800900500/42769
+#EXTINF:-1 tvg-id="aande.br" tvg-name="ELEVEN SPORTS 17 HD² [Somente Eventos]" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",ELEVEN SPORTS 17 HD² [Somente Eventos]
+http://4tv.site:2082/duvaldo80/800900500/42768
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 18 HD² [Somente Evento]" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",ELEVEN SPORTS 18 HD² [Somente Evento]
+http://4tv.site:2082/duvaldo80/800900500/38949
+#EXTINF:-1 tvg-id="loading" tvg-name="ELEVEN SPORTS 2 HD² [Somente Evento]" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",ELEVEN SPORTS 2 HD² [Somente Evento]
+http://4tv.site:2082/duvaldo80/800900500/43280
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 HD² [Somente Evento]" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",ELEVEN SPORTS 3 HD² [Somente Evento]
+http://4tv.site:2082/duvaldo80/800900500/43279
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 HD² [Somente Evento]" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",ELEVEN SPORTS 4 HD² [Somente Evento]
+http://4tv.site:2082/duvaldo80/800900500/43278
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 5 HD⁵ [Somente Evento]" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",ELEVEN SPORTS 5 HD⁵ [Somente Evento]
+http://4tv.site:2082/duvaldo80/800900500/43277
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 HD² [Somente Evento]" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",ELEVEN SPORTS 6 HD² [Somente Evento]
+http://4tv.site:2082/duvaldo80/800900500/43276
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 7 HD²  [Somente Evento]" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",ELEVEN SPORTS 7 HD²  [Somente Evento]
+http://4tv.site:2082/duvaldo80/800900500/43275
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 8 HD² [Somente Evento]" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",ELEVEN SPORTS 8 HD² [Somente Evento]
+http://4tv.site:2082/duvaldo80/800900500/43274
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 9 HD² [Somente Evento]" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",ELEVEN SPORTS 9 HD² [Somente Evento]
+http://4tv.site:2082/duvaldo80/800900500/43273
+#EXTINF:-1 tvg-name="TNT SPORTS 2 HD²" tvg-logo="http://capas.webplay.fun/tnt_sports.png" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",TNT SPORTS 2 HD²
+http://4tv.site:2082/duvaldo80/800900500/175267
+#EXTINF:-1 tvg-name="TNT SPORTS 2 HD¹" tvg-logo="http://capas.webplay.fun/tnt_sports.png" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",TNT SPORTS 2 HD¹
+http://4tv.site:2082/duvaldo80/800900500/155200
+#EXTINF:-1 tvg-name="TNT SPORTS 3 HD²" tvg-logo="http://capas.webplay.fun/tnt_sports.png" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",TNT SPORTS 3 HD²
+http://4tv.site:2082/duvaldo80/800900500/175266
+#EXTINF:-1 tvg-name="TNT SPORTS 3 HD¹" tvg-logo="http://capas.webplay.fun/tnt_sports.png" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",TNT SPORTS 3 HD¹
+http://4tv.site:2082/duvaldo80/800900500/155202
+#EXTINF:-1 tvg-name="TNT SPORTS 4 HD²" tvg-logo="http://capas.webplay.fun/tnt_sports.png" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",TNT SPORTS 4 HD²
+http://4tv.site:2082/duvaldo80/800900500/175265
+#EXTINF:-1 tvg-name="TNT SPORTS 4 HD¹" tvg-logo="http://capas.webplay.fun/tnt_sports.png" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",TNT SPORTS 4 HD¹
+http://4tv.site:2082/duvaldo80/800900500/155204
+#EXTINF:-1 tvg-name="TNT SPORTS 5 HD²" tvg-logo="http://capas.webplay.fun/tnt_sports.png" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",TNT SPORTS 5 HD²
+http://4tv.site:2082/duvaldo80/800900500/175264
+#EXTINF:-1 tvg-name="TNT SPORTS 5 HD¹" tvg-logo="http://capas.webplay.fun/tnt_sports.png" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",TNT SPORTS 5 HD¹
+http://4tv.site:2082/duvaldo80/800900500/155206
+#EXTINF:-1 tvg-name="TNT SPORTS 6 HD" tvg-logo="http://capas.webplay.fun/tnt_sports.png" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",TNT SPORTS 6 HD
+http://4tv.site:2082/duvaldo80/800900500/155208
+#EXTINF:-1 tvg-name="TNT SPORTS HD²" tvg-logo="http://capas.webplay.fun/tnt_sports.png" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",TNT SPORTS HD²
+http://4tv.site:2082/duvaldo80/800900500/175263
+#EXTINF:-1 tvg-name="TNT SPORTS HD¹" tvg-logo="http://capas.webplay.fun/tnt_sports.png" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",TNT SPORTS HD¹
+http://4tv.site:2082/duvaldo80/800900500/155198
+#EXTINF:-1 tvg-name="TNT SPORTS²" tvg-logo="http://capas.webplay.fun/tnt_sports.png" group-title="CANAIS | TNT SPORTS - ELEVEN SPORTS",TNT SPORTS²
+http://4tv.site:2082/duvaldo80/800900500/175269
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN3 HD²" tvg-logo="https://i.imgur.com/qkX6rEJ.png" group-title="CANAIS | ESPN - SPORTV",ESPN3 HD²
+http://4tv.site:2082/duvaldo80/800900500/34470
+#EXTINF:-1 tvg-id="espn.plus.br" tvg-name="ESPN3 HD¹" tvg-logo="https://i.imgur.com/qkX6rEJ.png" group-title="CANAIS | ESPN - SPORTV",ESPN3 HD¹
+http://4tv.site:2082/duvaldo80/800900500/18226
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN3 SD²" tvg-logo="https://i.imgur.com/qkX6rEJ.png" group-title="CANAIS | ESPN - SPORTV",ESPN3 SD²
+http://4tv.site:2082/duvaldo80/800900500/35245
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="ESPN3 SD¹" tvg-logo="https://i.imgur.com/qkX6rEJ.png" group-title="CANAIS | ESPN - SPORTV",ESPN3 SD¹
+http://4tv.site:2082/duvaldo80/800900500/17910
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD²" tvg-logo="https://capas.webplay.fun/espn.png" group-title="CANAIS | ESPN - SPORTV",ESPN HD²
+http://4tv.site:2082/duvaldo80/800900500/35028
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD¹" tvg-logo="https://capas.webplay.fun/espn.png" group-title="CANAIS | ESPN - SPORTV",ESPN HD¹
+http://4tv.site:2082/duvaldo80/800900500/18227
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN SD²" tvg-logo="https://capas.webplay.fun/espn.png" group-title="CANAIS | ESPN - SPORTV",ESPN SD²
+http://4tv.site:2082/duvaldo80/800900500/35246
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN SD¹" tvg-logo="https://capas.webplay.fun/espn.png" group-title="CANAIS | ESPN - SPORTV",ESPN SD¹
+http://4tv.site:2082/duvaldo80/800900500/17911
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA FHD H265²" tvg-logo="https://capas.webplay.fun/espnextra.png" group-title="CANAIS | ESPN - SPORTV",ESPN EXTRA FHD H265²
+http://4tv.site:2082/duvaldo80/800900500/35247
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD²" tvg-logo="https://capas.webplay.fun/espnextra.png" group-title="CANAIS | ESPN - SPORTV",ESPN EXTRA HD²
+http://4tv.site:2082/duvaldo80/800900500/34472
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD¹" tvg-logo="https://capas.webplay.fun/espnextra.png" group-title="CANAIS | ESPN - SPORTV",ESPN EXTRA HD¹
+http://4tv.site:2082/duvaldo80/800900500/18229
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN2 HD²" tvg-logo="https://i.imgur.com/zRCyvnt.png" group-title="CANAIS | ESPN - SPORTV",ESPN2 HD²
+http://4tv.site:2082/duvaldo80/800900500/34946
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN2 HD¹" tvg-logo="https://i.imgur.com/zRCyvnt.png" group-title="CANAIS | ESPN - SPORTV",ESPN2 HD¹
+http://4tv.site:2082/duvaldo80/800900500/18228
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN2 SD²" tvg-logo="https://i.imgur.com/zRCyvnt.png" group-title="CANAIS | ESPN - SPORTV",ESPN2 SD²
+http://4tv.site:2082/duvaldo80/800900500/35093
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN2 SD¹" tvg-logo="https://i.imgur.com/zRCyvnt.png" group-title="CANAIS | ESPN - SPORTV",ESPN2 SD¹
+http://4tv.site:2082/duvaldo80/800900500/17909
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN4 HD²" tvg-logo="https://i.imgur.com/5y1vel7.png" group-title="CANAIS | ESPN - SPORTV",ESPN4 HD²
+http://4tv.site:2082/duvaldo80/800900500/34955
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN4 HD¹" tvg-logo="https://i.imgur.com/5y1vel7.png" group-title="CANAIS | ESPN - SPORTV",ESPN4 HD¹
+http://4tv.site:2082/duvaldo80/800900500/18236
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN4 SD²" tvg-logo="https://i.imgur.com/5y1vel7.png" group-title="CANAIS | ESPN - SPORTV",ESPN4 SD²
+http://4tv.site:2082/duvaldo80/800900500/35099
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN4 SD¹" tvg-logo="https://i.imgur.com/5y1vel7.png" group-title="CANAIS | ESPN - SPORTV",ESPN4 SD¹
+http://4tv.site:2082/duvaldo80/800900500/17917
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="https://capas.webplay.fun/sportv2.png" group-title="CANAIS | ESPN - SPORTV",SPORTV 2 HD²
+http://4tv.site:2082/duvaldo80/800900500/34998
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD¹" tvg-logo="https://capas.webplay.fun/sportv2.png" group-title="CANAIS | ESPN - SPORTV",SPORTV 2 HD¹
+http://4tv.site:2082/duvaldo80/800900500/18274
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD²" tvg-logo="https://capas.webplay.fun/sportv2.png" group-title="CANAIS | ESPN - SPORTV",SPORTV 2 SD²
+http://4tv.site:2082/duvaldo80/800900500/35143
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD¹" tvg-logo="https://capas.webplay.fun/sportv2.png" group-title="CANAIS | ESPN - SPORTV",SPORTV 2 SD¹
+http://4tv.site:2082/duvaldo80/800900500/17981
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="https://capas.webplay.fun/sportv3.png" group-title="CANAIS | ESPN - SPORTV",SPORTV 3 HD²
+http://4tv.site:2082/duvaldo80/800900500/34999
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD¹" tvg-logo="https://capas.webplay.fun/sportv3.png" group-title="CANAIS | ESPN - SPORTV",SPORTV 3 HD¹
+http://4tv.site:2082/duvaldo80/800900500/18275
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD²" tvg-logo="https://capas.webplay.fun/sportv3.png" group-title="CANAIS | ESPN - SPORTV",SPORTV 3 SD²
+http://4tv.site:2082/duvaldo80/800900500/35144
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD¹" tvg-logo="https://capas.webplay.fun/sportv3.png" group-title="CANAIS | ESPN - SPORTV",SPORTV 3 SD¹
+http://4tv.site:2082/duvaldo80/800900500/17982
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="SPORTV HD²" tvg-logo="https://capas.webplay.fun/sportv.png" group-title="CANAIS | ESPN - SPORTV",SPORTV HD²
+http://4tv.site:2082/duvaldo80/800900500/34997
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="SPORTV HD¹" tvg-logo="https://capas.webplay.fun/sportv.png" group-title="CANAIS | ESPN - SPORTV",SPORTV HD¹
+http://4tv.site:2082/duvaldo80/800900500/18276
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD²" tvg-logo="https://capas.webplay.fun/sportv.png" group-title="CANAIS | ESPN - SPORTV",SPORTV SD²
+http://4tv.site:2082/duvaldo80/800900500/35142
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD¹" tvg-logo="https://capas.webplay.fun/sportv.png" group-title="CANAIS | ESPN - SPORTV",SPORTV SD¹
+http://4tv.site:2082/duvaldo80/800900500/17980
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD²" tvg-logo="http://capas.webplay.fun/hbo2.png" group-title="CANAIS | TELECINE - HBO",HBO 2 HD²
+http://4tv.site:2082/duvaldo80/800900500/38782
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD¹" tvg-logo="http://capas.webplay.fun/hbo2.png" group-title="CANAIS | TELECINE - HBO",HBO 2 HD¹
+http://4tv.site:2082/duvaldo80/800900500/18242
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD²" tvg-logo="http://capas.webplay.fun/hbo2.png" group-title="CANAIS | TELECINE - HBO",HBO 2 SD²
+http://4tv.site:2082/duvaldo80/800900500/38783
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD¹" tvg-logo="http://capas.webplay.fun/hbo2.png" group-title="CANAIS | TELECINE - HBO",HBO 2 SD¹
+http://4tv.site:2082/duvaldo80/800900500/17933
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD¹" tvg-logo="http://capas.webplay.fun/hbofamily.png" group-title="CANAIS | TELECINE - HBO",HBO FAMILY HD¹
+http://4tv.site:2082/duvaldo80/800900500/18243
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY SD¹" tvg-logo="http://capas.webplay.fun/hbofamily.png" group-title="CANAIS | TELECINE - HBO",HBO FAMILY SD¹
+http://4tv.site:2082/duvaldo80/800900500/17930
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD²" tvg-logo="http://capas.webplay.fun/hbo.png" group-title="CANAIS | TELECINE - HBO",HBO HD²
+http://4tv.site:2082/duvaldo80/800900500/38784
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD¹" tvg-logo="http://capas.webplay.fun/hbo.png" group-title="CANAIS | TELECINE - HBO",HBO HD¹
+http://4tv.site:2082/duvaldo80/800900500/18244
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="HBO MUNDI HD¹" tvg-logo="http://capas.webplay.fun/hbomundi.png" group-title="CANAIS | TELECINE - HBO",HBO MUNDI HD¹
+http://4tv.site:2082/duvaldo80/800900500/18251
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS  FHD H265¹" tvg-logo="http://capas.webplay.fun/hboplus.png" group-title="CANAIS | TELECINE - HBO",HBO PLUS  FHD H265¹
+http://4tv.site:2082/duvaldo80/800900500/174926
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS  HD²" tvg-logo="http://capas.webplay.fun/hboplus.png" group-title="CANAIS | TELECINE - HBO",HBO PLUS  HD²
+http://4tv.site:2082/duvaldo80/800900500/174927
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD¹" tvg-logo="http://capas.webplay.fun/hboplus.png" group-title="CANAIS | TELECINE - HBO",HBO PLUS HD¹
+http://4tv.site:2082/duvaldo80/800900500/18245
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS SD²" tvg-logo="http://capas.webplay.fun/hboplus.png" group-title="CANAIS | TELECINE - HBO",HBO PLUS SD²
+http://4tv.site:2082/duvaldo80/800900500/174929
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS SD¹" tvg-logo="http://capas.webplay.fun/hboplus.png" group-title="CANAIS | TELECINE - HBO",HBO PLUS SD¹
+http://4tv.site:2082/duvaldo80/800900500/174928
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD²" tvg-logo="http://capas.webplay.fun/hbopop.png" group-title="CANAIS | TELECINE - HBO",HBO POP HD²
+http://4tv.site:2082/duvaldo80/800900500/174931
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD¹" tvg-logo="http://capas.webplay.fun/hbopop.png" group-title="CANAIS | TELECINE - HBO",HBO POP HD¹
+http://4tv.site:2082/duvaldo80/800900500/18253
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP SD²" tvg-logo="http://capas.webplay.fun/hbopop.png" group-title="CANAIS | TELECINE - HBO",HBO POP SD²
+http://4tv.site:2082/duvaldo80/800900500/174933
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP SD¹" tvg-logo="http://capas.webplay.fun/hbopop.png" group-title="CANAIS | TELECINE - HBO",HBO POP SD¹
+http://4tv.site:2082/duvaldo80/800900500/174932
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD²" tvg-logo="http://capas.webplay.fun/hbo.png" group-title="CANAIS | TELECINE - HBO",HBO SD²
+http://4tv.site:2082/duvaldo80/800900500/38785
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD¹" tvg-logo="http://capas.webplay.fun/hbo.png" group-title="CANAIS | TELECINE - HBO",HBO SD¹
+http://4tv.site:2082/duvaldo80/800900500/17929
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE HD¹" tvg-logo="http://capas.webplay.fun/hbosignature.png" group-title="CANAIS | TELECINE - HBO",HBO SIGNATURE HD¹
+http://4tv.site:2082/duvaldo80/800900500/18246
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD¹" tvg-logo="http://capas.webplay.fun/hboxtreme.png" group-title="CANAIS | TELECINE - HBO",HBO XTREME HD¹
+http://4tv.site:2082/duvaldo80/800900500/18252
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD²" tvg-logo="https://capas.webplay.fun/telecineaction.png" group-title="CANAIS | TELECINE - HBO",TELECINE ACTION HD²
+http://4tv.site:2082/duvaldo80/800900500/34502
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD¹" tvg-logo="https://capas.webplay.fun/telecineaction.png" group-title="CANAIS | TELECINE - HBO",TELECINE ACTION HD¹
+http://4tv.site:2082/duvaldo80/800900500/18280
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION SD²" tvg-logo="https://capas.webplay.fun/telecineaction.png" group-title="CANAIS | TELECINE - HBO",TELECINE ACTION SD²
+http://4tv.site:2082/duvaldo80/800900500/35148
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION SD¹" tvg-logo="https://capas.webplay.fun/telecineaction.png" group-title="CANAIS | TELECINE - HBO",TELECINE ACTION SD¹
+http://4tv.site:2082/duvaldo80/800900500/17987
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD²" tvg-logo="https://capas.webplay.fun/telecinecult.png" group-title="CANAIS | TELECINE - HBO",TELECINE CULT HD²
+http://4tv.site:2082/duvaldo80/800900500/35005
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD¹" tvg-logo="https://capas.webplay.fun/telecinecult.png" group-title="CANAIS | TELECINE - HBO",TELECINE CULT HD¹
+http://4tv.site:2082/duvaldo80/800900500/18281
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT SD²" tvg-logo="https://capas.webplay.fun/telecinecult.png" group-title="CANAIS | TELECINE - HBO",TELECINE CULT SD²
+http://4tv.site:2082/duvaldo80/800900500/35149
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT SD¹" tvg-logo="https://capas.webplay.fun/telecinecult.png" group-title="CANAIS | TELECINE - HBO",TELECINE CULT SD¹
+http://4tv.site:2082/duvaldo80/800900500/17988
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD²" tvg-logo="https://capas.webplay.fun/telecinefun.png" group-title="CANAIS | TELECINE - HBO",TELECINE FUN HD²
+http://4tv.site:2082/duvaldo80/800900500/35150
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD¹" tvg-logo="https://capas.webplay.fun/telecinefun.png" group-title="CANAIS | TELECINE - HBO",TELECINE FUN HD¹
+http://4tv.site:2082/duvaldo80/800900500/18282
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN SD²" tvg-logo="https://capas.webplay.fun/telecinefun.png" group-title="CANAIS | TELECINE - HBO",TELECINE FUN SD²
+http://4tv.site:2082/duvaldo80/800900500/35221
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN SD¹" tvg-logo="https://capas.webplay.fun/telecinefun.png" group-title="CANAIS | TELECINE - HBO",TELECINE FUN SD¹
+http://4tv.site:2082/duvaldo80/800900500/17989
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD²" tvg-logo="https://capas.webplay.fun/telecinepipoca.png" group-title="CANAIS | TELECINE - HBO",TELECINE PIPOCA HD²
+http://4tv.site:2082/duvaldo80/800900500/35007
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD¹" tvg-logo="https://capas.webplay.fun/telecinepipoca.png" group-title="CANAIS | TELECINE - HBO",TELECINE PIPOCA HD¹
+http://4tv.site:2082/duvaldo80/800900500/18283
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA SD²" tvg-logo="https://capas.webplay.fun/telecinepipoca.png" group-title="CANAIS | TELECINE - HBO",TELECINE PIPOCA SD²
+http://4tv.site:2082/duvaldo80/800900500/35151
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA SD¹" tvg-logo="https://capas.webplay.fun/telecinepipoca.png" group-title="CANAIS | TELECINE - HBO",TELECINE PIPOCA SD¹
+http://4tv.site:2082/duvaldo80/800900500/17990
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD²" tvg-logo="https://capas.webplay.fun/telecinepremium.png" group-title="CANAIS | TELECINE - HBO",TELECINE PREMIUM HD²
+http://4tv.site:2082/duvaldo80/800900500/35008
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD¹" tvg-logo="https://capas.webplay.fun/telecinepremium.png" group-title="CANAIS | TELECINE - HBO",TELECINE PREMIUM HD¹
+http://4tv.site:2082/duvaldo80/800900500/18284
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM SD²" tvg-logo="https://capas.webplay.fun/telecinepremium.png" group-title="CANAIS | TELECINE - HBO",TELECINE PREMIUM SD²
+http://4tv.site:2082/duvaldo80/800900500/35286
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM SD¹" tvg-logo="https://capas.webplay.fun/telecinepremium.png" group-title="CANAIS | TELECINE - HBO",TELECINE PREMIUM SD¹
+http://4tv.site:2082/duvaldo80/800900500/17991
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD²" tvg-logo="https://capas.webplay.fun/telecinetouch.png" group-title="CANAIS | TELECINE - HBO",TELECINE TOUCH HD²
+http://4tv.site:2082/duvaldo80/800900500/35009
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD¹" tvg-logo="https://capas.webplay.fun/telecinetouch.png" group-title="CANAIS | TELECINE - HBO",TELECINE TOUCH HD¹
+http://4tv.site:2082/duvaldo80/800900500/18285
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH SD²" tvg-logo="https://capas.webplay.fun/telecinetouch.png" group-title="CANAIS | TELECINE - HBO",TELECINE TOUCH SD²
+http://4tv.site:2082/duvaldo80/800900500/35153
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH SD¹" tvg-logo="https://capas.webplay.fun/telecinetouch.png" group-title="CANAIS | TELECINE - HBO",TELECINE TOUCH SD¹
+http://4tv.site:2082/duvaldo80/800900500/17992
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD²" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2 HD²
+http://4tv.site:2082/duvaldo80/800900500/49932
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2 HD¹
+http://4tv.site:2082/duvaldo80/800900500/49931
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD²" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2 SD²
+http://4tv.site:2082/duvaldo80/800900500/49935
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD¹" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2 SD¹
+http://4tv.site:2082/duvaldo80/800900500/49934
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 3 HD²" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 3 HD²
+http://4tv.site:2082/duvaldo80/800900500/49941
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD¹" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 3 HD¹
+http://4tv.site:2082/duvaldo80/800900500/49940
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD²" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD²
+http://4tv.site:2082/duvaldo80/800900500/49944
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD¹" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD¹
+http://4tv.site:2082/duvaldo80/800900500/49943
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD²" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD²
+http://4tv.site:2082/duvaldo80/800900500/49950
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD¹" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD¹
+http://4tv.site:2082/duvaldo80/800900500/49949
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 SD²" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 4 SD²
+http://4tv.site:2082/duvaldo80/800900500/49953
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD¹" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 4 SD¹
+http://4tv.site:2082/duvaldo80/800900500/49952
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD²" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 5 HD²
+http://4tv.site:2082/duvaldo80/800900500/49959
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 5 HD¹" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 5 HD¹
+http://4tv.site:2082/duvaldo80/800900500/49958
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 5 SD¹" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 5 SD¹
+http://4tv.site:2082/duvaldo80/800900500/49961
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD H265²" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD H265²
+http://4tv.site:2082/duvaldo80/800900500/49965
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD²" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD²
+http://4tv.site:2082/duvaldo80/800900500/49968
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD¹" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD¹
+http://4tv.site:2082/duvaldo80/800900500/49967
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD²" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 6 SD²
+http://4tv.site:2082/duvaldo80/800900500/49971
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD¹" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 6 SD¹
+http://4tv.site:2082/duvaldo80/800900500/49970
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD H265²" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD H265²
+http://4tv.site:2082/duvaldo80/800900500/49974
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD²" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 7 HD²
+http://4tv.site:2082/duvaldo80/800900500/49977
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD¹" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 7 HD¹
+http://4tv.site:2082/duvaldo80/800900500/49976
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 SD²" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 7 SD²
+http://4tv.site:2082/duvaldo80/800900500/49980
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD¹" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 7 SD¹
+http://4tv.site:2082/duvaldo80/800900500/49979
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES HD²" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD²
+http://4tv.site:2082/duvaldo80/800900500/49923
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES HD¹" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD¹
+http://4tv.site:2082/duvaldo80/800900500/49922
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES SD²" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD²
+http://4tv.site:2082/duvaldo80/800900500/49926
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES SD³" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD³
+http://4tv.site:2082/duvaldo80/800900500/49927
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES SD¹" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD¹
+http://4tv.site:2082/duvaldo80/800900500/49925
+#EXTINF:-1 tvg-name="Brasileirão Série C 01" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/70/Campeonato_Brasileiro_S%C3%A9rie_C_logo.png" group-title="CANAIS | BRASILEIRÃO SÉRIE C",Brasileirão Série C 01
+http://4tv.site:2082/duvaldo80/800900500/193641
+#EXTINF:-1 tvg-name="Brasileirão Série C 02" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/70/Campeonato_Brasileiro_S%C3%A9rie_C_logo.png" group-title="CANAIS | BRASILEIRÃO SÉRIE C",Brasileirão Série C 02
+http://4tv.site:2082/duvaldo80/800900500/193642
+#EXTINF:-1 tvg-name="Brasileirão Série C 03" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/70/Campeonato_Brasileiro_S%C3%A9rie_C_logo.png" group-title="CANAIS | BRASILEIRÃO SÉRIE C",Brasileirão Série C 03
+http://4tv.site:2082/duvaldo80/800900500/193643
